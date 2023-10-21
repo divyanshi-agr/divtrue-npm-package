@@ -1,0 +1,20 @@
+{
+  "name": "divtrue",
+  "version": "1.0.10",
+  "description": "Random package that returns a happy statement when inputted string is \"Divyanshi\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyanshi-agr/divtrue-npm-package.git"
+  },
+  "author": "Divyanshi Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyanshi-agr/divtrue-npm-package/issues"
+  },
+  "homepage": "https://github.com/divyanshi-agr/divtrue-npm-package#readme"
+}

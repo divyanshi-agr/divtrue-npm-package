@@ -4,7 +4,6 @@ If you enter "Divyanshi" in the input box, you've nailed it. Else you haven't.
 
 # How to use?
 
-Type this in terminal :
 `npm i divtrue`
 
 Then :
